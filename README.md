@@ -9,7 +9,7 @@ The dataset includes metrics such as Total Calls, Average Call Duration, Custome
 
 ### 💻Project Dashboard
 
-![Dashboard Preview](https://1drv.ms/i/c/ce35d0d4c398a5c7/IQBIshqCNPqqT7VxfP3zqXE6ATL3Gttc27QrBr7h922lLbg?e=XlmrPx)
+[Dashboard Preview](https://1drv.ms/i/c/ce35d0d4c398a5c7/IQBIshqCNPqqT7VxfP3zqXE6ATL3Gttc27QrBr7h922lLbg?e=81l0BH)
 
 ## 📔Statement of the Problem
 
