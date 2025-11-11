@@ -9,7 +9,7 @@ The dataset includes metrics such as Total Calls, Average Call Duration, Custome
 
 ### 💻Project Dashboard
 
-![Dashboard Preview](https://github.com/AdeleyeAnne/DSA-CAPSTONE-PROJECT./blob/main/powerbi%20dashbpard.png)
+![Dashboard Preview](https://1drv.ms/i/c/ce35d0d4c398a5c7/IQBIshqCNPqqT7VxfP3zqXE6ATL3Gttc27QrBr7h922lLbg?e=XlmrPx)
 
 ## 📔Statement of the Problem
 
@@ -126,5 +126,4 @@ By applying these insights, the organization will streamline its support operati
 
    
  ### 📂Data Analysis ( Files Included)
-  - view project here [Excel workbook](https://docs.google.com/spreadsheets/d/1ujSgYgPJGukD7-3DATln1vbaTeEIzaeq/edit?usp=drive_link&ouid=117267960839273126726&rtpof=true&sd=true)
-  -  project dataset[.xlsx file](https://docs.google.com/spreadsheets/d/1ivWy1378UJeEY_QdUYtPXf5nC0rjA77a/edit?usp=drive_link&ouid=117267960839273126726&
+  - view Analysis here [Excel workbook](https://1drv.ms/x/c/ce35d0d4c398a5c7/IQDFDRuTiQFJR6LohIgId29DAQAnKMhtE1luP1Es4xdSwCg?e=PrbcD2)
